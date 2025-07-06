@@ -1,0 +1,1 @@
+INSERT INTO `tb_user` VALUES (2,'joao@gmail.com','Senha18!',2,2,2,2),(3,'jose@gmail.com','Senha18!',2,3,3,1),(5,'maria@gmail.com','Senha123@',3,5,5,2);
